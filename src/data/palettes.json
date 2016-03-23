@@ -1,0 +1,14 @@
+{
+    "palettes" : [
+        {
+          "title": "Waterfall Meadow",
+          "creator": "tcoco",
+          "colors": ["#505160", "#68829E", "#AEBD38", "#598234"]
+        },
+        {
+          "title": "Spring Rain",
+          "creator": "tcoco",
+          "colors": ["#818282", "#D4D5D5", "#4EBD4B", "#21212A"]
+        }
+    ]
+}

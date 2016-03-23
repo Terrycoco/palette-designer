@@ -1,0 +1,6 @@
+:local(.formGroup) {
+  color: red;
+}
+:local(.formControl) {
+  color: blue;
+}

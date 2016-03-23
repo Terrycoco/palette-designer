@@ -1,0 +1,33 @@
+  :root {
+    --default-bg: #eee;
+    --default-fg: #000;
+    --content-bg: #eee;
+    --content-text: #111111;
+    --primary: #2ABB9B;
+    --primary-tint: #c1D8d5;
+    --primary-shade: #16A085;
+    --secondary: white;
+    --secondary-text: #111111;
+    --accent: white;
+    --accent-tint: #111111;
+    --accent-shade:
+  }
+/*
+html, body {
+  background-color: var(--default-bg);
+  color: var(--default-fg);
+  border: var(--default-bd);
+}
+
+section {
+  background-color: inherit;
+}
+
+h1, h2, h3 {
+
+  background-color: 'transparent';
+}
+
+thead {
+  background-color: var(--primary-shade);
+}*/
